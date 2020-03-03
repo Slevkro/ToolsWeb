@@ -6,4 +6,9 @@
 
 .container p{
     color: #a1fcdf;
+    color: grey;
+}
+
+.container{
+    background-color: #f4fce3;
 }

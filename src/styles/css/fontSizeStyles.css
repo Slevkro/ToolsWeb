@@ -1,0 +1,22 @@
+body{
+    font-size: 6px;
+}
+
+
+.container{
+    font-size: 20px; /*Medida absoluta*/
+}
+
+.container2{
+    font-size: 40px; /*Medida absoluta*/
+}
+
+p{
+    font-size: 0.5em; /*Medida relativa al contenedor que lo esta encapsulando*/
+}
+
+/*rem se refiere al tamaño raiz que por defecto es 16*/
+
+html{
+    font-size: 13px; /*La medida del rem esta en el html*/
+}
