@@ -7,6 +7,10 @@ body{
     font-size: 20px; /*Medida absoluta*/
 }
 
+.container h1{
+    font-size: 20vw;
+}
+
 .container2{
     font-size: 40px; /*Medida absoluta*/
 }
